@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🎉 Congratulations kawczynski-krzysztof! 🎉
+# 🎉 Congratulations kawczynski-krzysztof, you are the boss! 🎉
 
 <img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
